@@ -9,7 +9,7 @@ const Header = () => {
         <Container>
           <Navbar.Brand href="/">
             <img src={logo} alt="Proshop" />
-            ProShop PS</Navbar.Brand>
+            ProShop PS!!</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
