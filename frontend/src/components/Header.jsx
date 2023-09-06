@@ -1,7 +1,8 @@
 import {Navbar, Nav, Container} from 'react-bootstrap';
 import {FaShoppingCart, FaUser} from 'react-icons/fa';
 import {LinkContainer} from 'react-router-bootstrap';
-import logo from '../assets/logo.png';
+// import logo from '../assets/logo.png';
+import logo from '../assets/ss2.png';
 
 const Header = () => {
   return (
